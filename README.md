@@ -6,16 +6,18 @@ The AI Medical Chatbot is an interactive web application designed to simulate a 
 Disclaimer
 This chatbot is for demonstration and educational purposes only and should not be used for actual medical diagnosis or treatment. Always consult with a professional healthcare provider for medical advice.
 
-Getting Started
-Prerequisites
+Dependencies
+
 Python 3.x
 Flask
 OpenAI API Key
+
+
 Installation
 
 1) Clone the Repository
 
-git clone [URL to your repository]
+git clone https://github.com/shankar0123/ai-medical-intake-chatbot/tree/main
 cd ai-medical-chatbot
 
 2) Install Dependencies
